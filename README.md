@@ -12,9 +12,10 @@ I build reliable data products that connect **business needs, automation and spa
 - **Geo:** Google Earth Engine, MapBiomas, OSM
 
 ## ✍️ Content & Writing
-- Philosophy & applied thinking (Substack)
+- Philosophy and applied thinking
 - Technical documentation and data storytelling
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/ianlapa
 - Email: ianlapa@gmail.com
+- Substack: https://ianlapa.substack.com
