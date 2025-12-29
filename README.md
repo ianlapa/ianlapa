@@ -5,11 +5,12 @@ I build reliable data products that connect **business needs, automation and spa
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL, R
-- **Data:** Pandas, GeoPandas, dbt
+- **Data:** Pandas, GeoPandas, dbt, Airflow
+- **RDBMS:** MySQL, Redshift, Oracle, SQL Server, PostgreSQL
 - **Visualization:** PowerBI, Qlik, Looker Studio, Tableau
-- **Cloud:** AWS (S3, IAM, Lambda), BigQuery, Oracle Cloud Infrastructure, Civis
-- **Infra:** Docker, Terraform, GitHub Actions
-- **Geo:** Google Earth Engine, MapBiomas, OSM
+- **Cloud:** AWS, BigQuery, Oracle Cloud Infrastructure, Civis
+- **Infra:** Docker, Git
+- **Geo:** Google Earth Engine, MapBiomas, OSM, QGIS
 
 ## ✍️ Content & Writing
 - Philosophy and applied thinking
