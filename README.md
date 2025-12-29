@@ -1,21 +1,7 @@
 # 👋 Hi, I'm Ian
 
-Senior Data / Analytics Engineer with experience in **data pipelines, cloud infrastructure and geospatial intelligence**.  
-I build reliable data products that connect **business needs, automation and spatial analysis**. Currently working in Greenpeace Brazil.
-
-## 💼 What I do
-- Design and maintain **ETL / ELT pipelines**
-- Build **analytics-ready datasets** for BI and reporting
-- Work with **cloud data warehouses**
-- Apply **geospatial analysis** to real-world problems
-- Write **technical articles**
-
-## 🧠 Domains
-- Data Engineering
-- Analytics Engineering
-- Location Intelligence
-- Data Architecture
-- ETL pipelines
+Senior Data / Analytics Engineer with experience in **data pipelines, cloud infrastructure, geospatial intelligence and writing**.  
+I build reliable data products that connect **business needs, automation and spatial analysis**. Currently working at Greenpeace Brazil.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL, R
